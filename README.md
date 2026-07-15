@@ -95,8 +95,3 @@ python main.py
 2.  **LPN (License Plate Number) Tracking**: Track item pallets rather than individual product counts for large-pallet shipping logistics.
 3.  **Worker Scheduling**: Dynamic shifts for Pickers/Packers, adding employee hourly wages to calculate operational labor costs.
 4.  **Web Interface**: Re-platform CLI console to a web dashboard using Next.js/FastAPI to monitor operations visually.
-# warehouse_operations_simulator
-# warehouse_operations_simulator
-# warehouse_operations_simulator
-# warehouse_operations_simulator
-# warehouse_operations_simulator
