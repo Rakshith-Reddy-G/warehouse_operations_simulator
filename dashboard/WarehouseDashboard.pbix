@@ -1,0 +1,6 @@
+Placeholder for Power BI Warehouse Operations Dashboard (.pbix file).
+Please refer to the PowerBI_Guide.md in this directory for detailed instructions on:
+1. Importing the CSV files from 'sample_data/'
+2. Configuring the Star Schema relationships
+3. Creating DAX metrics (Fulfillment Rate, Return Rate, Inventory Turn)
+4. Layout suggestions for Executive Summary, Inventory, Logistics, and Employee performance tabs.
